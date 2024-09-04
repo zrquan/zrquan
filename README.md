@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/zrquan">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrquan&show_icons=true&theme=catppuccin_latte" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html&theme=catppuccin_latte" />
-</a>
+</div>
 
+<br/>
+
+<a href="https://zrquan.github.io/">![](https://img.shields.io/badge/Blog-zrquan-blue)</a>
+<a href="https://steamcommunity.com/id/4shen0ne/">![](https://img.shields.io/badge/Steam-4shen0ne-blue)</a>
 ![](https://komarev.com/ghpvc/?username=zrquan)
