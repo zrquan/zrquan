@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm a pentester looking to become a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
 
 <!--
 **zrquan/zrquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+🛠 Python | Go | Kotlin | Java | Pentest | Emacs | EndeavourOS | Git | Docker | ...
+
+<br/>
+
+<a href="https://github.com/zrquan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrquan&show_icons=true&theme=catppuccin_latte" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html&theme=catppuccin_latte" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=zrquan)
