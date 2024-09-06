@@ -21,6 +21,8 @@
 ![Kali](https://img.shields.io/badge/Kali-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IDEA-0047fd.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
