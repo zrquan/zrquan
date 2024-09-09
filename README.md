@@ -6,9 +6,9 @@
   <!--<img src="https://komarev.com/ghpvc/?username=zrquan">-->
 </div>
 
-<p align="center">I used to be an ethical hacker, and now I'm aiming to become a good developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"></p>
+<p align="center">I used to be an ethical hacker, and now I'm aiming to become a good developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45px"></p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -31,13 +31,11 @@
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-1D99F3.svg?style=for-the-badge&logo=kde&logoColor=white)
 
-<!--🛠 Python | Go | Kotlin | Java | Pentest | Emacs | EndeavourOS | Git | Docker | ...-->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats
+## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrquan&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrquan&show_icons=true&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html&hide_title=true" />
 </div>
 
 <br/>
