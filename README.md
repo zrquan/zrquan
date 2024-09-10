@@ -33,8 +33,10 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrquan&show_icons=true&hide_title=true&hide_border=true&text_bold=false" />
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html&hide_title=true" />-->
+<div nowrap="nowrap">
+  <img src="https://github-readme-stats.vercel.app/api?username=zrquan&show_icons=true&hide_title=false&hide_border=true&text_bold=false" width="50%" height="190em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html&hide_title=false&hide_border=true&text_bold=false" width="40%" height="190em">
+</div>
 
 ## ⚡ Recent Activity
 
