@@ -41,9 +41,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1394](https://github.com/maurosoria/dirsearch/pull/1394) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 💪 Opened PR [#1392](https://github.com/maurosoria/dirsearch/pull/1392) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. 🗣 Commented on [#1391](https://github.com/maurosoria/dirsearch/pull/1391#issuecomment-2339538629) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-4. 🗣 Commented on [#643](https://github.com/maurosoria/dirsearch/issues/643#issuecomment-2336567060) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 🗣 Commented on [#2](https://github.com/zrquan/burp-weblogic-scanner/issues/2#issuecomment-2336541408) in [zrquan/burp-weblogic-scanner](https://github.com/zrquan/burp-weblogic-scanner)
+1. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351016776) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. 💪 Opened PR [#1394](https://github.com/maurosoria/dirsearch/pull/1394) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 💪 Opened PR [#1392](https://github.com/maurosoria/dirsearch/pull/1392) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. 🗣 Commented on [#1391](https://github.com/maurosoria/dirsearch/pull/1391#issuecomment-2339538629) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+5. 🗣 Commented on [#643](https://github.com/maurosoria/dirsearch/issues/643#issuecomment-2336567060) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
