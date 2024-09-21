@@ -41,9 +41,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2359835752) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351679266) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351382120) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-4. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351381577) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351016776) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+1. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2365025569) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2359835752) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351679266) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351382120) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+5. 🗣 Commented on [#1393](https://github.com/maurosoria/dirsearch/issues/1393#issuecomment-2351381577) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
