@@ -41,9 +41,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1399](https://github.com/maurosoria/dirsearch/issues/1399#issuecomment-2381839826) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. ❗ Opened issue [#1397](https://github.com/maurosoria/dirsearch/issues/1397) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. 🗣 Commented on [#5577](https://github.com/projectdiscovery/nuclei/issues/5577#issuecomment-2367314777) in [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-4. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2365025569) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2359835752) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+1. ❗ Opened issue [#124](https://github.com/laike9m/Python-Type-Challenges/issues/124) in [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges)
+2. 🗣 Commented on [#1399](https://github.com/maurosoria/dirsearch/issues/1399#issuecomment-2381839826) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. ❗ Opened issue [#1397](https://github.com/maurosoria/dirsearch/issues/1397) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. 🗣 Commented on [#5577](https://github.com/projectdiscovery/nuclei/issues/5577#issuecomment-2367314777) in [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+5. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2365025569) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
