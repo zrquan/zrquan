@@ -41,9 +41,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2398657222) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. ❌ Closed PR [#1394](https://github.com/maurosoria/dirsearch/pull/1394) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. ❗ Opened issue [#124](https://github.com/laike9m/Python-Type-Challenges/issues/124) in [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges)
-4. 🗣 Commented on [#1399](https://github.com/maurosoria/dirsearch/issues/1399#issuecomment-2381839826) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. ❗ Opened issue [#1397](https://github.com/maurosoria/dirsearch/issues/1397) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+1. ❗ Opened issue [#962](https://github.com/encode/httpcore/issues/962) in [encode/httpcore](https://github.com/encode/httpcore)
+2. 🗣 Commented on [#1394](https://github.com/maurosoria/dirsearch/pull/1394#issuecomment-2398657222) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. ❌ Closed PR [#1394](https://github.com/maurosoria/dirsearch/pull/1394) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. ❗ Opened issue [#124](https://github.com/laike9m/Python-Type-Challenges/issues/124) in [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges)
+5. 🗣 Commented on [#1399](https://github.com/maurosoria/dirsearch/issues/1399#issuecomment-2381839826) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
