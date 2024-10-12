@@ -41,9 +41,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1403](https://github.com/maurosoria/dirsearch/pull/1403) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. ❗ Opened issue [#17](https://github.com/fpgmaas/cookiecutter-uv/issues/17) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
-3. 💪 Opened PR [#3070](https://github.com/mitre/caldera/pull/3070) in [mitre/caldera](https://github.com/mitre/caldera)
-4. 🗣 Commented on [#966](https://github.com/encode/httpcore/issues/966#issuecomment-2404496684) in [encode/httpcore](https://github.com/encode/httpcore)
-5. 🗣 Commented on [#966](https://github.com/encode/httpcore/issues/966#issuecomment-2404386550) in [encode/httpcore](https://github.com/encode/httpcore)
+1. 🗣 Commented on [#1397](https://github.com/maurosoria/dirsearch/issues/1397#issuecomment-2408276987) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. 💪 Opened PR [#1403](https://github.com/maurosoria/dirsearch/pull/1403) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. ❗ Opened issue [#17](https://github.com/fpgmaas/cookiecutter-uv/issues/17) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+4. 💪 Opened PR [#3070](https://github.com/mitre/caldera/pull/3070) in [mitre/caldera](https://github.com/mitre/caldera)
+5. 🗣 Commented on [#966](https://github.com/encode/httpcore/issues/966#issuecomment-2404496684) in [encode/httpcore](https://github.com/encode/httpcore)
 <!--END_SECTION:activity-->
