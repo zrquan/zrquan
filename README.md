@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1405](https://github.com/maurosoria/dirsearch/pull/1405) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 🗣 Commented on [#3069](https://github.com/mitre/caldera/issues/3069#issuecomment-2408551373) in [mitre/caldera](https://github.com/mitre/caldera)
-3. 💪 Opened PR [#1404](https://github.com/maurosoria/dirsearch/pull/1404) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-4. 🗣 Commented on [#1397](https://github.com/maurosoria/dirsearch/issues/1397#issuecomment-2408276987) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 💪 Opened PR [#1403](https://github.com/maurosoria/dirsearch/pull/1403) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+1. 🗣 Commented on [#1405](https://github.com/maurosoria/dirsearch/pull/1405#issuecomment-2408979957) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. 💪 Opened PR [#1405](https://github.com/maurosoria/dirsearch/pull/1405) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 🗣 Commented on [#3069](https://github.com/mitre/caldera/issues/3069#issuecomment-2408551373) in [mitre/caldera](https://github.com/mitre/caldera)
+4. 💪 Opened PR [#1404](https://github.com/maurosoria/dirsearch/pull/1404) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+5. 🗣 Commented on [#1397](https://github.com/maurosoria/dirsearch/issues/1397#issuecomment-2408276987) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
