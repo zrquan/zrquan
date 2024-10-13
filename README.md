@@ -15,7 +15,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-b07219.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pentest](https://img.shields.io/badge/Pentest-1A1A1A.svg?style=for-the-badge&logo=hackaday&logoColor=white)
+![Hacking](https://img.shields.io/badge/Hacking-1A1A1A.svg?style=for-the-badge&logo=hackaday&logoColor=white)
 
 ### I'm using-
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white)
