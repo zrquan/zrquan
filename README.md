@@ -37,7 +37,7 @@
 
 <div nowrap="nowrap">
   <img src="https://github-readme-stats.vercel.app/api?username=zrquan&show_icons=true&hide_title=false&hide_border=false&text_bold=false&theme=catppuccin_mocha" height="190em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html&hide_title=false&hide_border=false&text_bold=false&theme=catppuccin_mocha" height="190em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrquan&layout=compact&hide=c,html&hide_title=false&hide_border=false&text_bold=false&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5" height="190em">
 </div>
 
 ## ⚡ Recent Activity
