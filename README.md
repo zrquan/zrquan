@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#127](https://github.com/laktak/extrakto/issues/127) in [laktak/extrakto](https://github.com/laktak/extrakto)
-2. 🗣 Commented on [#1007](https://github.com/maurosoria/dirsearch/issues/1007#issuecomment-2409008840) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. 🗣 Commented on [#1405](https://github.com/maurosoria/dirsearch/pull/1405#issuecomment-2408979957) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-4. 💪 Opened PR [#1405](https://github.com/maurosoria/dirsearch/pull/1405) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 🗣 Commented on [#3069](https://github.com/mitre/caldera/issues/3069#issuecomment-2408551373) in [mitre/caldera](https://github.com/mitre/caldera)
+1. 💪 Opened PR [#1406](https://github.com/maurosoria/dirsearch/pull/1406) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. ❗ Opened issue [#127](https://github.com/laktak/extrakto/issues/127) in [laktak/extrakto](https://github.com/laktak/extrakto)
+3. 🗣 Commented on [#1007](https://github.com/maurosoria/dirsearch/issues/1007#issuecomment-2409008840) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. 🗣 Commented on [#1405](https://github.com/maurosoria/dirsearch/pull/1405#issuecomment-2408979957) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+5. 💪 Opened PR [#1405](https://github.com/maurosoria/dirsearch/pull/1405) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
