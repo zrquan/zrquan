@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1426](https://github.com/maurosoria/dirsearch/pull/1426) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 💪 Opened PR [#1425](https://github.com/maurosoria/dirsearch/pull/1425) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. 🗣 Commented on [#127](https://github.com/laktak/extrakto/issues/127#issuecomment-2429034837) in [laktak/extrakto](https://github.com/laktak/extrakto)
-4. 💪 Opened PR [#1416](https://github.com/maurosoria/dirsearch/pull/1416) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 💪 Opened PR [#1411](https://github.com/maurosoria/dirsearch/pull/1411) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+1. 🚀 Published release [v0.1.5](https://github.com/zrquan/nmass/releases/tag/v0.1.5) in [zrquan/nmass](https://github.com/zrquan/nmass)
+2. 💪 Opened PR [#1426](https://github.com/maurosoria/dirsearch/pull/1426) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 💪 Opened PR [#1425](https://github.com/maurosoria/dirsearch/pull/1425) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. 🗣 Commented on [#127](https://github.com/laktak/extrakto/issues/127#issuecomment-2429034837) in [laktak/extrakto](https://github.com/laktak/extrakto)
+5. 💪 Opened PR [#1416](https://github.com/maurosoria/dirsearch/pull/1416) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
