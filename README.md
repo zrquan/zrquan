@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.5](https://github.com/zrquan/nmass/releases/tag/v0.1.5) in [zrquan/nmass](https://github.com/zrquan/nmass)
-2. 🚀 Published release [v0.1.5](https://github.com/zrquan/nmass/releases/tag/v0.1.5) in [zrquan/nmass](https://github.com/zrquan/nmass)
+1. 🚀 Published release [v0.1.5-1](https://github.com/zrquan/nmass/releases/tag/v0.1.5-1) in [zrquan/nmass](https://github.com/zrquan/nmass)
+2. 🚀 Published release [v0.1.5-1](https://github.com/zrquan/nmass/releases/tag/v0.1.5-1) in [zrquan/nmass](https://github.com/zrquan/nmass)
 3. 🚀 Published release [v0.1.5](https://github.com/zrquan/nmass/releases/tag/v0.1.5) in [zrquan/nmass](https://github.com/zrquan/nmass)
-4. 💪 Opened PR [#1426](https://github.com/maurosoria/dirsearch/pull/1426) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 💪 Opened PR [#1425](https://github.com/maurosoria/dirsearch/pull/1425) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. 🚀 Published release [v0.1.51](https://github.com/zrquan/nmass/releases/tag/v0.1.51) in [zrquan/nmass](https://github.com/zrquan/nmass)
+5. 🚀 Published release [v0.1.5](https://github.com/zrquan/nmass/releases/tag/v0.1.5) in [zrquan/nmass](https://github.com/zrquan/nmass)
 <!--END_SECTION:activity-->
