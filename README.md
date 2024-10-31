@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.5-4](https://github.com/zrquan/nmass/releases/tag/v0.1.5-4) in [zrquan/nmass](https://github.com/zrquan/nmass)
-2. 💪 Opened PR [#20](https://github.com/fpgmaas/cookiecutter-uv/pull/20) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
-3. 🚀 Published release [v0.1.5-3](https://github.com/zrquan/nmass/releases/tag/v0.1.5-3) in [zrquan/nmass](https://github.com/zrquan/nmass)
-4. 🚀 Published release [v0.1.5-2](https://github.com/zrquan/nmass/releases/tag/v0.1.5-2) in [zrquan/nmass](https://github.com/zrquan/nmass)
+1. 🚀 Published release [v0.2.0](https://github.com/zrquan/nmass/releases/tag/v0.2.0) in [zrquan/nmass](https://github.com/zrquan/nmass)
+2. 🚀 Published release [v0.1.5-4](https://github.com/zrquan/nmass/releases/tag/v0.1.5-4) in [zrquan/nmass](https://github.com/zrquan/nmass)
+3. 💪 Opened PR [#20](https://github.com/fpgmaas/cookiecutter-uv/pull/20) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+4. 🚀 Published release [v0.1.5-3](https://github.com/zrquan/nmass/releases/tag/v0.1.5-3) in [zrquan/nmass](https://github.com/zrquan/nmass)
 5. 🚀 Published release [v0.1.5-2](https://github.com/zrquan/nmass/releases/tag/v0.1.5-2) in [zrquan/nmass](https://github.com/zrquan/nmass)
 <!--END_SECTION:activity-->
