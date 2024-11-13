@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1430](https://github.com/maurosoria/dirsearch/pull/1430) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 🚀 Published release [v0.2.0](https://github.com/zrquan/nmass/releases/tag/v0.2.0) in [zrquan/nmass](https://github.com/zrquan/nmass)
-3. 🚀 Published release [v0.1.5-4](https://github.com/zrquan/nmass/releases/tag/v0.1.5-4) in [zrquan/nmass](https://github.com/zrquan/nmass)
-4. 💪 Opened PR [#20](https://github.com/fpgmaas/cookiecutter-uv/pull/20) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
-5. 🚀 Published release [v0.1.5-3](https://github.com/zrquan/nmass/releases/tag/v0.1.5-3) in [zrquan/nmass](https://github.com/zrquan/nmass)
+1. 💪 Opened PR [#1438](https://github.com/maurosoria/dirsearch/pull/1438) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. 💪 Opened PR [#1430](https://github.com/maurosoria/dirsearch/pull/1430) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 🚀 Published release [v0.2.0](https://github.com/zrquan/nmass/releases/tag/v0.2.0) in [zrquan/nmass](https://github.com/zrquan/nmass)
+4. 🚀 Published release [v0.1.5-4](https://github.com/zrquan/nmass/releases/tag/v0.1.5-4) in [zrquan/nmass](https://github.com/zrquan/nmass)
+5. 💪 Opened PR [#20](https://github.com/fpgmaas/cookiecutter-uv/pull/20) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
 <!--END_SECTION:activity-->
