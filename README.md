@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1430](https://github.com/maurosoria/dirsearch/pull/1430#issuecomment-2473765692) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 💪 Opened PR [#1439](https://github.com/maurosoria/dirsearch/pull/1439) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. 💪 Opened PR [#1438](https://github.com/maurosoria/dirsearch/pull/1438) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-4. 💪 Opened PR [#1430](https://github.com/maurosoria/dirsearch/pull/1430) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-5. 🚀 Published release [v0.2.0](https://github.com/zrquan/nmass/releases/tag/v0.2.0) in [zrquan/nmass](https://github.com/zrquan/nmass)
+1. 🗣 Commented on [#1430](https://github.com/maurosoria/dirsearch/pull/1430#issuecomment-2473818677) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. 🗣 Commented on [#1430](https://github.com/maurosoria/dirsearch/pull/1430#issuecomment-2473765692) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 💪 Opened PR [#1439](https://github.com/maurosoria/dirsearch/pull/1439) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+4. 💪 Opened PR [#1438](https://github.com/maurosoria/dirsearch/pull/1438) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+5. 💪 Opened PR [#1430](https://github.com/maurosoria/dirsearch/pull/1430) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
