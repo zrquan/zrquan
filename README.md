@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1450](https://github.com/maurosoria/dirsearch/issues/1450#issuecomment-2609331096) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 🗣 Commented on [#1450](https://github.com/maurosoria/dirsearch/issues/1450#issuecomment-2609326042) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-3. 💪 Opened PR [#8211](https://github.com/doomemacs/doomemacs/pull/8211) in [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)
+1. 🗣 Commented on [#1945](https://github.com/scalar/scalar/issues/1945#issuecomment-2644534591) in [scalar/scalar](https://github.com/scalar/scalar)
+2. 🗣 Commented on [#1450](https://github.com/maurosoria/dirsearch/issues/1450#issuecomment-2609331096) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 🗣 Commented on [#1450](https://github.com/maurosoria/dirsearch/issues/1450#issuecomment-2609326042) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 4. 🗣 Commented on [#1430](https://github.com/maurosoria/dirsearch/pull/1430#issuecomment-2478222206) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 5. 🗣 Commented on [#1430](https://github.com/maurosoria/dirsearch/pull/1430#issuecomment-2473818677) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 <!--END_SECTION:activity-->
