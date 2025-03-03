@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/iris-sast/iris/issues/19#issuecomment-2690258935) in [iris-sast/iris](https://github.com/iris-sast/iris)
-2. 💪 Opened PR [#24](https://github.com/iris-sast/iris/pull/24) in [iris-sast/iris](https://github.com/iris-sast/iris)
-3. 🗣 Commented on [#41](https://github.com/robertdavidgraham/masscan/issues/41#issuecomment-2690079388) in [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
-4. ❗ Opened issue [#19](https://github.com/iris-sast/iris/issues/19) in [iris-sast/iris](https://github.com/iris-sast/iris)
-5. 💪 Opened PR [#29](https://github.com/jxq0/org-tidy/pull/29) in [jxq0/org-tidy](https://github.com/jxq0/org-tidy)
+1. 🗣 Commented on [#24](https://github.com/iris-sast/iris/pull/24#issuecomment-2694054405) in [iris-sast/iris](https://github.com/iris-sast/iris)
+2. 🗣 Commented on [#19](https://github.com/iris-sast/iris/issues/19#issuecomment-2690258935) in [iris-sast/iris](https://github.com/iris-sast/iris)
+3. 💪 Opened PR [#24](https://github.com/iris-sast/iris/pull/24) in [iris-sast/iris](https://github.com/iris-sast/iris)
+4. 🗣 Commented on [#41](https://github.com/robertdavidgraham/masscan/issues/41#issuecomment-2690079388) in [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
+5. ❗ Opened issue [#19](https://github.com/iris-sast/iris/issues/19) in [iris-sast/iris](https://github.com/iris-sast/iris)
 <!--END_SECTION:activity-->
