@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/zrquan/nmass/issues/1#issuecomment-2837309763) in [zrquan/nmass](https://github.com/zrquan/nmass)
-2. 🗣 Commented on [#19](https://github.com/iris-sast/iris/issues/19#issuecomment-2690258935) in [iris-sast/iris](https://github.com/iris-sast/iris)
-3. 💪 Opened PR [#24](https://github.com/iris-sast/iris/pull/24) in [iris-sast/iris](https://github.com/iris-sast/iris)
+1. 🔒 Closed issue [#1](https://github.com/zrquan/nmass/issues/1) in [zrquan/nmass](https://github.com/zrquan/nmass)
+2. 🗣 Commented on [#1](https://github.com/zrquan/nmass/issues/1#issuecomment-2838733355) in [zrquan/nmass](https://github.com/zrquan/nmass)
+3. 🗣 Commented on [#1](https://github.com/zrquan/nmass/issues/1#issuecomment-2837309763) in [zrquan/nmass](https://github.com/zrquan/nmass)
 4. 🗣 Commented on [#41](https://github.com/robertdavidgraham/masscan/issues/41#issuecomment-2690079388) in [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
 5. ❗ Opened issue [#19](https://github.com/iris-sast/iris/issues/19) in [iris-sast/iris](https://github.com/iris-sast/iris)
 <!--END_SECTION:activity-->
