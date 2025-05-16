@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/zrquan/nmass/issues/3) in [zrquan/nmass](https://github.com/zrquan/nmass)
-2. 🗣 Commented on [#1](https://github.com/zrquan/nmass/issues/1#issuecomment-2853151889) in [zrquan/nmass](https://github.com/zrquan/nmass)
-3. 🚀 Published release [v0.2.1](https://github.com/zrquan/nmass/releases/tag/v0.2.1) in [zrquan/nmass](https://github.com/zrquan/nmass)
-4. 🗣 Commented on [#3](https://github.com/zrquan/nmass/issues/3#issuecomment-2853085266) in [zrquan/nmass](https://github.com/zrquan/nmass)
-5. 🎉 Merged PR [#2](https://github.com/zrquan/nmass/pull/2) in [zrquan/nmass](https://github.com/zrquan/nmass)
+1. 💪 Opened PR [#35](https://github.com/invariantlabs-ai/mcp-scan/pull/35) in [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
+2. 🔒 Closed issue [#3](https://github.com/zrquan/nmass/issues/3) in [zrquan/nmass](https://github.com/zrquan/nmass)
+3. 🗣 Commented on [#1](https://github.com/zrquan/nmass/issues/1#issuecomment-2853151889) in [zrquan/nmass](https://github.com/zrquan/nmass)
+4. 🚀 Published release [v0.2.1](https://github.com/zrquan/nmass/releases/tag/v0.2.1) in [zrquan/nmass](https://github.com/zrquan/nmass)
+5. 🗣 Commented on [#3](https://github.com/zrquan/nmass/issues/3#issuecomment-2853085266) in [zrquan/nmass](https://github.com/zrquan/nmass)
 <!--END_SECTION:activity-->
