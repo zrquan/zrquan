@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8211](https://github.com/doomemacs/doomemacs/pull/8211) in [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)
-2. ❗ Opened issue [#54](https://github.com/invariantlabs-ai/invariant/issues/54) in [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant)
-3. 💪 Opened PR [#35](https://github.com/invariantlabs-ai/mcp-scan/pull/35) in [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
-4. 🔒 Closed issue [#3](https://github.com/zrquan/nmass/issues/3) in [zrquan/nmass](https://github.com/zrquan/nmass)
-5. 🗣 Commented on [#1](https://github.com/zrquan/nmass/issues/1#issuecomment-2853151889) in [zrquan/nmass](https://github.com/zrquan/nmass)
+1. ❗ Opened issue [#12](https://github.com/harishsg993010/damn-vulnerable-MCP-server/issues/12) in [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
+2. ❌ Closed PR [#8211](https://github.com/doomemacs/doomemacs/pull/8211) in [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)
+3. ❗ Opened issue [#54](https://github.com/invariantlabs-ai/invariant/issues/54) in [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant)
+4. 💪 Opened PR [#35](https://github.com/invariantlabs-ai/mcp-scan/pull/35) in [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
+5. 🔒 Closed issue [#3](https://github.com/zrquan/nmass/issues/3) in [zrquan/nmass](https://github.com/zrquan/nmass)
 <!--END_SECTION:activity-->
