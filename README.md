@@ -43,7 +43,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/invariantlabs-ai/mcp-scan/pull/48) in [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
+1. ❗ Opened issue [#4089](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/4089) in [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 2. ❗ Opened issue [#12](https://github.com/harishsg993010/damn-vulnerable-MCP-server/issues/12) in [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 3. ❌ Closed PR [#8211](https://github.com/doomemacs/doomemacs/pull/8211) in [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)
 4. ❗ Opened issue [#54](https://github.com/invariantlabs-ai/invariant/issues/54) in [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant)
