@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4090](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/pull/4090) in [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-2. ❗ Opened issue [#4089](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/4089) in [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-3. ❌ Closed PR [#8211](https://github.com/doomemacs/doomemacs/pull/8211) in [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)
+1. 💪 Opened PR [#6860](https://github.com/microsoft/autogen/pull/6860) in [microsoft/autogen](https://github.com/microsoft/autogen)
+2. 💪 Opened PR [#4090](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/pull/4090) in [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+3. ❗ Opened issue [#4089](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/4089) in [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 4. ❗ Opened issue [#54](https://github.com/invariantlabs-ai/invariant/issues/54) in [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant)
 5. 💪 Opened PR [#35](https://github.com/invariantlabs-ai/mcp-scan/pull/35) in [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
 <!--END_SECTION:activity-->
