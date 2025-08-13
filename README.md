@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6256](https://github.com/scalar/scalar/pull/6256#issuecomment-3177392212) in [scalar/scalar](https://github.com/scalar/scalar)
-2. 💪 Opened PR [#6918](https://github.com/microsoft/autogen/pull/6918) in [microsoft/autogen](https://github.com/microsoft/autogen)
-3. 🗣 Commented on [#6881](https://github.com/microsoft/autogen/pull/6881#issuecomment-3146968787) in [microsoft/autogen](https://github.com/microsoft/autogen)
-4. 💪 Opened PR [#6881](https://github.com/microsoft/autogen/pull/6881) in [microsoft/autogen](https://github.com/microsoft/autogen)
-5. 💪 Opened PR [#71](https://github.com/fpgmaas/cookiecutter-uv/pull/71) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+1. 🗣 Commented on [#6526](https://github.com/scalar/scalar/pull/6526#issuecomment-3181876231) in [scalar/scalar](https://github.com/scalar/scalar)
+2. 🗣 Commented on [#6256](https://github.com/scalar/scalar/pull/6256#issuecomment-3177392212) in [scalar/scalar](https://github.com/scalar/scalar)
+3. 💪 Opened PR [#6918](https://github.com/microsoft/autogen/pull/6918) in [microsoft/autogen](https://github.com/microsoft/autogen)
+4. 🗣 Commented on [#6881](https://github.com/microsoft/autogen/pull/6881#issuecomment-3146968787) in [microsoft/autogen](https://github.com/microsoft/autogen)
+5. 💪 Opened PR [#6881](https://github.com/microsoft/autogen/pull/6881) in [microsoft/autogen](https://github.com/microsoft/autogen)
 <!--END_SECTION:activity-->
