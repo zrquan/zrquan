@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/zrquan/nmass/issues/4#issuecomment-3242126161) in [zrquan/nmass](https://github.com/zrquan/nmass)
-2. ❗ Opened issue [#3040](https://github.com/comet-ml/opik/issues/3040) in [comet-ml/opik](https://github.com/comet-ml/opik)
-3. 🗣 Commented on [#6526](https://github.com/scalar/scalar/pull/6526#issuecomment-3181876231) in [scalar/scalar](https://github.com/scalar/scalar)
-4. 🗣 Commented on [#6256](https://github.com/scalar/scalar/pull/6256#issuecomment-3177392212) in [scalar/scalar](https://github.com/scalar/scalar)
-5. 💪 Opened PR [#6918](https://github.com/microsoft/autogen/pull/6918) in [microsoft/autogen](https://github.com/microsoft/autogen)
+1. ❗ Opened issue [#3172](https://github.com/comet-ml/opik/issues/3172) in [comet-ml/opik](https://github.com/comet-ml/opik)
+2. 🗣 Commented on [#4](https://github.com/zrquan/nmass/issues/4#issuecomment-3242126161) in [zrquan/nmass](https://github.com/zrquan/nmass)
+3. ❗ Opened issue [#3040](https://github.com/comet-ml/opik/issues/3040) in [comet-ml/opik](https://github.com/comet-ml/opik)
+4. 🗣 Commented on [#6526](https://github.com/scalar/scalar/pull/6526#issuecomment-3181876231) in [scalar/scalar](https://github.com/scalar/scalar)
+5. 🗣 Commented on [#6256](https://github.com/scalar/scalar/pull/6256#issuecomment-3177392212) in [scalar/scalar](https://github.com/scalar/scalar)
 <!--END_SECTION:activity-->
