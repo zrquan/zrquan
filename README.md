@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2501](undefined) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
-2. 🔒 Closed issue [#3172](https://github.com/comet-ml/opik/issues/3172) in [comet-ml/opik](https://github.com/comet-ml/opik)
-3. ❗ Opened issue [#3172](https://github.com/comet-ml/opik/issues/3172) in [comet-ml/opik](https://github.com/comet-ml/opik)
-4. 🗣 Commented on [#4](https://github.com/zrquan/nmass/issues/4#issuecomment-3242126161) in [zrquan/nmass](https://github.com/zrquan/nmass)
-5. 🗣 Commented on [#3040](https://github.com/comet-ml/opik/issues/3040#issuecomment-3198884996) in [comet-ml/opik](https://github.com/comet-ml/opik)
+1. 🔒 Closed issue [#3172](https://github.com/comet-ml/opik/issues/3172) in [comet-ml/opik](https://github.com/comet-ml/opik)
+2. ❗ Opened issue [#3172](https://github.com/comet-ml/opik/issues/3172) in [comet-ml/opik](https://github.com/comet-ml/opik)
+3. 🗣 Commented on [#4](https://github.com/zrquan/nmass/issues/4#issuecomment-3242126161) in [zrquan/nmass](https://github.com/zrquan/nmass)
+4. ❗ Opened issue [#3040](https://github.com/comet-ml/opik/issues/3040) in [comet-ml/opik](https://github.com/comet-ml/opik)
+5. 🗣 Commented on [#6526](https://github.com/scalar/scalar/pull/6526#issuecomment-3181876231) in [scalar/scalar](https://github.com/scalar/scalar)
 <!--END_SECTION:activity-->
