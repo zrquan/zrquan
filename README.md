@@ -45,7 +45,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6967](https://github.com/microsoft/autogen/issues/6967#issuecomment-3278557912) in [microsoft/autogen](https://github.com/microsoft/autogen)
 2. 🗣 Commented on [#2501](https://github.com/Chainlit/chainlit/pull/2501#issuecomment-3277146438) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
-3. 💪 Opened PR [#2501](https://github.com/Chainlit/chainlit/pull/2501) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
+3. 💪 Opened PR [#2501](undefined) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
 4. 🔒 Closed issue [#3172](https://github.com/comet-ml/opik/issues/3172) in [comet-ml/opik](https://github.com/comet-ml/opik)
 5. ❗ Opened issue [#3172](https://github.com/comet-ml/opik/issues/3172) in [comet-ml/opik](https://github.com/comet-ml/opik)
 <!--END_SECTION:activity-->
