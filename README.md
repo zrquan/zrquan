@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6881](https://github.com/microsoft/autogen/pull/6881) in [microsoft/autogen](https://github.com/microsoft/autogen)
-2. 💪 Opened PR [#7051](https://github.com/microsoft/autogen/pull/7051) in [microsoft/autogen](https://github.com/microsoft/autogen)
+1. ❌ Closed PR [#6881](undefined) in [microsoft/autogen](https://github.com/microsoft/autogen)
+2. 💪 Opened PR [#7051](undefined) in [microsoft/autogen](https://github.com/microsoft/autogen)
 3. 🗣 Commented on [#7041](https://github.com/microsoft/autogen/issues/7041#issuecomment-3327705875) in [microsoft/autogen](https://github.com/microsoft/autogen)
-4. ❗ Opened issue [#7042](https://github.com/microsoft/autogen/issues/7042) in [microsoft/autogen](https://github.com/microsoft/autogen)
-5. 🗣 Commented on [#6967](https://github.com/microsoft/autogen/issues/6967#issuecomment-3278557912) in [microsoft/autogen](https://github.com/microsoft/autogen)
+4.  Labeled issue [#7042](https://github.com/microsoft/autogen/issues/7042) in [microsoft/autogen](https://github.com/microsoft/autogen)
+5. ❗ Opened issue [#7042](https://github.com/microsoft/autogen/issues/7042) in [microsoft/autogen](https://github.com/microsoft/autogen)
 <!--END_SECTION:activity-->
