@@ -43,7 +43,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#428](https://github.com/microsoft/agent-framework/issues/428#issuecomment-3430372041) in [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+1. 🗣 Commented on [#2631](https://github.com/Chainlit/chainlit/issues/2631#issuecomment-3599887437) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
 2. ❌ Closed PR [#6881](undefined) in [microsoft/autogen](https://github.com/microsoft/autogen)
 3. 💪 Opened PR [#7051](undefined) in [microsoft/autogen](https://github.com/microsoft/autogen)
 4. 🗣 Commented on [#7041](https://github.com/microsoft/autogen/issues/7041#issuecomment-3327705875) in [microsoft/autogen](https://github.com/microsoft/autogen)
