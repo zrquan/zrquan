@@ -43,9 +43,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1497](https://github.com/maurosoria/dirsearch/issues/1497#issuecomment-3692628798) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
-2. 🗣 Commented on [#2631](https://github.com/Chainlit/chainlit/issues/2631#issuecomment-3599887437) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
-3. 💪 Opened PR [#7051](undefined) in [microsoft/autogen](https://github.com/microsoft/autogen)
+1. 🗣 Commented on [#1497](https://github.com/maurosoria/dirsearch/issues/1497#issuecomment-3694534048) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+2. 🗣 Commented on [#1497](https://github.com/maurosoria/dirsearch/issues/1497#issuecomment-3692628798) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+3. 🗣 Commented on [#2631](https://github.com/Chainlit/chainlit/issues/2631#issuecomment-3599887437) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
 4. 🗣 Commented on [#7041](https://github.com/microsoft/autogen/issues/7041#issuecomment-3327705875) in [microsoft/autogen](https://github.com/microsoft/autogen)
 5. ❗ Opened issue [#7042](https://github.com/microsoft/autogen/issues/7042) in [microsoft/autogen](https://github.com/microsoft/autogen)
 <!--END_SECTION:activity-->
