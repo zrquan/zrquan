@@ -43,7 +43,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1495](https://github.com/maurosoria/dirsearch/issues/1495#issuecomment-3697994636) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+1. ❗ Opened issue [#1](https://github.com/zrquan/doom.d/issues/1) in [zrquan/doom.d](https://github.com/zrquan/doom.d)
 2. 🗣 Commented on [#1497](https://github.com/maurosoria/dirsearch/issues/1497#issuecomment-3694534048) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 3. 🗣 Commented on [#1497](https://github.com/maurosoria/dirsearch/issues/1497#issuecomment-3692628798) in [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 4. 🗣 Commented on [#2631](https://github.com/Chainlit/chainlit/issues/2631#issuecomment-3599887437) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
